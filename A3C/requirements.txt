@@ -44,8 +44,8 @@ six==1.16.0
 swig==4.2.1
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.2.0
 tensorflow-estimator==2.2.0
+tensorflow-gpu==2.2.0
 termcolor==2.4.0
 urllib3==2.2.1
 werkzeug==3.0.2
